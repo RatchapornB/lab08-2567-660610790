@@ -1,7 +1,7 @@
-import Header from "./components/Header"
-import TaskInput from "./components/TaskInput";
-import Task from "./components/Task";
-import Footer from "./components/Footer";
+import Header from "./Components/Header"
+import TaskInput from "./Components/TaskInput";
+import Task from "./Components/Task";
+import Footer from "./Components/Footer";
 
 export default function Home() {
   const tasks = [
